@@ -1,3 +1,5 @@
+package de.maibornwolff;
+
 import org.junit.Assert;
 import org.junit.Test;
 
